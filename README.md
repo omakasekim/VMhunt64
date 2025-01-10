@@ -7,7 +7,7 @@ VMHunt is a set of tools for analyzing virtualized binary code. The original ver
 2. g++ compiler (6.0 version or above).
 
 ## How to compile and install
-1. Compile the tracer: run `make PIN_ROOT=PinDirectory TARGET=intel-64 $*` in the `tracer` directory.
+1. Compile the tracer: run `make PIN_ROOT=PinDirectory TARGET=intel64 $*` in the `tracer` directory.
 2. Compile VMHunt: run `make` in the project root directory.
 
 ## How to use
