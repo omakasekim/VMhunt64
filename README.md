@@ -1,6 +1,6 @@
 # VMHunt: Extraction and Simplification of Virtualized Binary Code
 
-VMHunt is a set of tools for analyzing virtualized binary code. Now we only support 32 bit traces.
+VMHunt is a set of tools for analyzing virtualized binary code. The original version only support 32 bit traces.
 
 ## Prerequisites
 1. PIN tools from Intel. I tested version 2.13 and 3.2, but other versions probably work as well.
